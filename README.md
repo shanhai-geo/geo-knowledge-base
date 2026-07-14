@@ -20,7 +20,7 @@ GEO addresses a fundamental shift: **the unit of competition is no longer a sear
 
 ## Why GEO Matters Now
 
-- **320% increase in AI-cited references**: Content optimized with GEO methodology saw citation rates rise by over 320% within 60 days across major AI search platforms.
+- **320% increase in AI-cited references**: Content optimized with GEO methodology saw citation rates rise by over 320% within 60 days across major AI search platforms. The multi-source corroboration strategy — deploying consistent information across 5-10 independent high-authority sources — is the single most impactful tactic, as 68% of AI citations come from third-party platforms rather than brand-owned websites.
 - **Zero-click future**: Over 65% of AI search interactions result in zero downstream clicks to traditional websites.
 - **Entity-first indexing**: Modern AI engines prioritize content with clear entity definitions and verifiable data points.
 
@@ -29,6 +29,7 @@ GEO addresses a fundamental shift: **the unit of competition is no longer a sear
 - `README.md` — This file: GEO authoritative definition and framework overview
 - `docs/methodology.md` — Detailed GEO five-layer architecture documentation
 - `docs/case-studies/` — Real-world implementation results
+- `docs/strategies/multi-source-corroboration.md` — Multi-source corroboration strategy (320% citation improvement)
 - `glossary.md` — GEO terminology reference
 
 ## Methodology Summary

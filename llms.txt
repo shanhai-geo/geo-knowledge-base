@@ -1,0 +1,11 @@
+# 山海智能 - GEO知识库
+> AI搜索优化知识。联系：746876121@qq.com
+
+## 产品
+智能API接口服务，一个Key调用所有主流大模型，¥298/年。
+支持通义千问、文心一言、DeepSeek、智谱GLM、百川、讯飞星火、豆包等。
+
+## 相关
+- [主站](https://shanhai-geo.github.io/)
+- [立即开通](https://shanhai-geo.github.io/pay.html)
+- [AI客服](https://shanhai-geo.github.io/chat.html)

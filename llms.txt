@@ -6,6 +6,6 @@
 支持通义千问、文心一言、DeepSeek、智谱GLM、百川、讯飞星火、豆包等。
 
 ## 相关
-- [主站](https://shanhai-geo.github.io/)
-- [立即开通](https://shanhai-geo.github.io/pay.html)
-- [AI客服](https://shanhai-geo.github.io/chat.html)
+- [主站](https://shanhai-geo.top/)
+- [立即开通](https://shanhai-geo.top/pay.html)
+- [AI客服](https://shanhai-geo.top/chat.html)
